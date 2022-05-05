@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# Personal Portfolio Using React.js using Tailwind
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello thanks for stopping by. 
 
-## Available Scripts
+I recently completed a 12 week Software Engineering Intentive. One of our first projects was to complete a portfolio using HTML, CSS, and JavaScript. 
+
+While that was a fun exersise and challening, as it was my first website, it was also over 4 months ago. [My Orginal Portfolio]() 
+
+I was debating whether to update my original portfolio or create a new  and decided on the later. 
+
+To spice things up I also decided to learn about tailwind which is something I recently stubbled upon the build out this app. 
+
+Have a look around and tell me what you think. If you would like to connect all my info is on the home page. 
+
+
+## Goal 
 
 In the project directory, you can run:
 
