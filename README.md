@@ -13,9 +13,20 @@ To spice things up I also decided to learn about tailwind which is something I r
 Have a look around and tell me what you think. If you would like to connect all my info is on the home page. 
 
 
-## Goal 
+## Goals and Plan 
 
-In the project directory, you can run:
+To create fully responsive portfoloi using React.js and Tailwind. I will also be adding a fully operable contact form.  
+
+The milestones for this project is as follows: 
+
+1) Create App
+2) Build out structure
+3) Add Sudo-text
+4) Design 
+5) Update with complete text
+6) Debug
+7) Deploy and share
+
 
 ### `npm start`
 
